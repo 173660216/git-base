@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 asdasdfa    22222222
 asdasfafasff
 asdasfafasff 333333
 asdasfafasff
 asdasfafasff
+=======
+asdasdfa
+>>>>>>> fix-hot
 
